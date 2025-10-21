@@ -17,7 +17,8 @@ The model achieved a test accuracy of **96.49%** using standardized breast cance
 
 ## 🩺 Dataset
 - **Dataset Name:** Breast Cancer Wisconsin (Diagnostic)
-- **Source:** UCI Machine Learning Repository  
+- **Source:** UCI Machine Learning Repository
+- **Link:** https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 - **Samples:** 569  
 - **Attributes:** 30 quantitative features  
 - **Classes:** Benign (0) and Malignant (1)
@@ -154,3 +155,4 @@ kvk22510@gmail.com
 ---
 
 > *This project demonstrates that combining deep learning with fuzzy reasoning can produce medical AI systems that are not only accurate but also interpretable, reliable, and clinically meaningful.*
+
